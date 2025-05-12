@@ -1,0 +1,1 @@
+Olá, este é o projeto do aplicativo para reciclagem de materiais recicláveis.

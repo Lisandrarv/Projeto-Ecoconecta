@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, inicial-scale=1.0"/>
+        <title>EcoConecta - Jornada do João</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" /><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+    </head>
+    <body>
+        <header>
+            <h1>EcoConecta</h1>
+            <nav>
+                <ul>
+                    <li><a href="#inicio">Início</a></li>
+                    <li><a href="#cadastro">Cadastro</a></li>
+                    <li><a href="#consulta">Consulta</a></li>
+                    <li><a href="#agendamento">Agendamento</a></li>
+                    <li><a href="#feedback">Feedback</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="inicio">
+                <h2><i class="fas fa-recycle"></i> Bem-vindo, João!</h2>
+                <p>Vamos começar sua jornada pela reciclagem consciente.</p>
+                <img src="reciclagem.webp" alt="Imagem de reciclagem">
+                <button onclick="document.getElementById('cadastro').scrollIntoView({behavior:'smooth'})">Começar</button>
+            </section>
+
+            <section id="cadastro">
+                <h2><i class="fas fa-user-plus"></i> Cadastro</h2>
+                <form>
+                    <input type="text" placeholder="Nome" required/>
+                    <input type="email" placeholder="E-mail" required/>
+                    <input type="text" placeholder="Endereço" required/>
+                    <input type="text" placeholder="Telefone" required/>
+                    <input type="password" placeholder="Senha" required/>
+                    <button type="submit">Cadastrar</button>
+                </form>
+                <img src="cadastro.png" alt="Ilustração de cadastro">
+            </section>
+
+            <section id="consulta">
+                <h2><i class="fas fa-map-marked-alt"></i> Cooperativas Próximas</h2>
+                <p>Use o mapa ou veja a lista para encontrar cooperativas perto de você.</p>
+                <div class="mapa">[Mapa aqui]</div>
+                 <img src="https://via.placeholder.com/400x200?text=Mapa+de+Cooperativas" alt="Mapa de Cooperativas">
+            </section>
+
+            <section id="agendamento">
+                <h2><i class="fas fa-calendar-alt"></i> Agendamento de coleta</h2>
+                <form>
+                    <label for="data">Escolha a data:</label>
+                    <input type="date" id="data" required/>                
+                    <label for="horario">Horário:</label>
+                    <input type="time" id="Horário" required/>
+                    <label for="material">Tipo de material:</label>
+                    <select id="material">
+                        <option>Plástico</option>
+                        <option>Papel</option>
+                        <option>Vidro</option>
+                        <option>Metal</option>
+                    </select>
+                    <button type="submit">Agendar</button>
+                </form>
+                <img src="https://via.placeholder.com/400x200?text=Agendamento" alt="Ilustração de agendamento">
+            </section>
+
+            <section id="feedback">
+                <h2><i class="fas fa-leal"></i> Seu impacto ambiental</h2>
+                <p>Parabéns! Você ajudou a reduzir o lixo e preservar o planeta 🌱</p>
+                <div class="feedback-dados">
+                    <p><i class="fas fa-weight"></i> 3kg de CO² evitados</p>
+                    <p><i class="fas fa-medal"></i> +10 pontos no ranking de recicladores</p>
+                </div>
+                <img src="https://via.placeholder.com/400x200?text=Impacto+Ambiental" alt="Feedback ambiental">
+            </section>
+        </main>
+
+        <footer>
+            <p>&copy; 2025 EcoConecta</p>
+        </footer>
+
+        <script src="script.js"></script>
+    </body>
+</html>
