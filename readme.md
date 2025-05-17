@@ -19,8 +19,6 @@ Projeto de um aplicativo web feito com Django que conecta usuários a pontos de 
 </br>
 <img src="assets\img\diagframa-de-classe-uml.png" width="500" height="420">
 
-
-
 ### Objetivo
 
 Criar um sistema de gestão de dados que atenda às necessidades da Universidade, que permita cadastrar e administrar 
@@ -29,4 +27,20 @@ Será possível consolidar as informações em um único sistema, eliminando a d
 automatizar e otimizar os processos manuais, reduzindo o tempo e os recursos necessários para a gestão de dados, 
 garantir a segurança e a integridade dos dados, implementando mecanismos de controle de acesso e backup, além de 
 desenvolver um sistema intuitivo e de fácil utilização para os diversos perfis de usuários.
+
+### Prototipos
+
+Protótipos Interativos: A seguir, são apresentados os protótipos de interface do sistema, criados no Figma. Eles ilustram as telas e interações dos módulos de cadastro de Pessoas Físicas, Jurídicas, Professores, Fornecedores e Alunos. Para visualizar os protótipos
+interativos, basta clicar nos links abaixo.
+
+<img src="https://github.com/user-attachments/assets/2cb35788-d05c-4fe5-bf46-5d667494e6e6">
+<img src="https://github.com/user-attachments/assets/602e88e6-ba90-44f3-8318-e9aa4c336c17">
+<img src="https://github.com/user-attachments/assets/ce6d11d3-5a94-4789-b6de-b64082aa1f41">
+<img src="https://github.com/user-attachments/assets/5ea4ca0f-296b-4ed0-9997-5d7052d21304">
+<img src="https://github.com/user-attachments/assets/86a93572-8b21-48b6-9cf2-7eeb82b7c116">
+<img src="https://github.com/user-attachments/assets/a517bb64-b61a-416f-93af-872cd0de1be1">
+<img src="https://github.com/user-attachments/assets/4a15e87e-cebc-4827-abbc-a89825bd1d8a">
+</div>
+
+
 
