@@ -42,5 +42,13 @@ interativos, basta clicar nos links abaixo.
 <img src="https://github.com/user-attachments/assets/4a15e87e-cebc-4827-abbc-a89825bd1d8a">
 </div>
 
+### Tecnologias Utilizadas
 
+* Ferramenta de modelagem UML: O draw.io foi escolhido por sua interface intuitiva e por ser uma ferramenta gratuita e fácil de usar para criar diagramas de casos de uso e diagramas de classes UML. [draw.io](https://www.drawio.com/)
+* Linguagem de programação: O Java foi selecionado por ser uma linguagem robusta e amplamente utilizada no desenvolvimento de sistemas corporativos, oferecendo escalabilidade e segurança. [Java](https://www.java.com/pt-BR/)
+* Banco de dados: Optamos pelo H2 DB, um banco de dados leve e em memória, ideal para protótipos rápidos e para sistemas que não necessitam de um banco de dados persistente em larga escala. [H2 DB](https://www.h2database.com/html/main.html)
+* Controle de versão: O GitHub foi utilizado como sistema de controle de versão devido à sua popularidade e integração eficiente com outras ferramentas de desenvolvimento e colaboração. [Github](https://github.com/) 
+* Ferramenta de criação Protótipo: O Figma foi escolhido por ser uma ferramenta colaborativa e altamente eficiente para criar protótipos interativos, permitindo que todos os membros da equipe contribuam simultaneamente no design do sistema. [Figma](https://www.figma.com/)
+
+  
 
