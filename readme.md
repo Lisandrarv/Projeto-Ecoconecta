@@ -78,7 +78,7 @@ Se for implantar o projeto em ambiente de nuvem (como Heroku, Railway ou Render)
   * requirements.txt
   * Configuração para STATICFILES
 
-### Tecnologias Utilizadas
+### 💻 Tecnologias Utilizadas
 
 * Python 3.10+ 
 * Django 4.x
@@ -87,7 +87,7 @@ Se for implantar o projeto em ambiente de nuvem (como Heroku, Railway ou Render)
 * Bootstrap5
 * SQLite3 (padrão Django)
 
-🌿 Sobre
+### 🌿 Sobre
 Desenvolvido como parte de um projeto acadêmico e social com foco em sustentabilidade, cidadania e tecnologia acessível.
 
   
