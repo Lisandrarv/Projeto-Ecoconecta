@@ -30,15 +30,16 @@ interativos, basta clicar nos links abaixo.
 
 </div>
 
-⚙️ Pré-requisitos:
+
+### ⚙️ Pré-requisitos:
 Antes de executar o projeto instale:
 
-Python 3.9+
-Pip
-Git
-Um ambiente virtual (recomendado: venv ou virtualenv)
+* Python 3.9+
+* Pip
+* Git
+* Um ambiente virtual (recomendado: venv ou virtualenv)
 
-🚀 Como executar o projeto localmente:
+### 🚀 Como executar o projeto localmente:
 1. Clonar o repositório:
 git clone https://github.com/seu-usuario/econectar.git
 cd econectar
@@ -65,11 +66,11 @@ python manage.py runserver
 7. Acessar o servidor:
 Acesse em http://127.0.0.1:8000
 
-🗃️ Scripts de Carga (dados iniciais)
+### 🗃️ Scripts de Carga (dados iniciais)
 Este é um script com dados de exemplo, com instruções, para os pontos de coleta ou agendamentos:
 python manage.py loaddata coleta/fixtures/pontos_coleta.json
 
-☁️ Subida para Nuvem (opcional)
+### ☁️ Subida para Nuvem (opcional)
 Se for implantar o projeto em ambiente de nuvem (como Heroku, Railway ou Render), inclua:
 
   * Procfile
