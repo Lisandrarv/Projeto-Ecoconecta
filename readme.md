@@ -10,6 +10,7 @@ Os serviços disponíveis são:
 - Feedback ambiental ​
 
 
+
 <div align="center">
   
 ### Jornadas
@@ -43,8 +44,8 @@ interativos, basta clicar nos links abaixo.
 * Django 4.x
 * HTML5
 * CSS3
-* 
-* 
+* Bootstrap5
+* SQLite3 ( 
 
   
 
